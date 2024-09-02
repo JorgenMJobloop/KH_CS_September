@@ -1,4 +1,6 @@
-﻿namespace KH_CS_September;
+﻿using System.Numerics;
+
+namespace KH_CS_September;
 class Program
 {
     static void Main(string[] args)
@@ -24,4 +26,5 @@ class Program
         char a = '@';
         Console.WriteLine(a);
     }
+
 }
